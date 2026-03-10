@@ -13,12 +13,10 @@
 
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/ZeroBin-dev/MYMSG_BE">프로젝트 1 - 카카오톡 카피코딩</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/CusCenBot">프로젝트 2 - 고객센터 챗봇</a></li>
-    <li><a href="https://github.com/ZeroBin-dev/YoutubePlayerWithKS">프로젝트 3 - 유튜브 플레이어</a></li>
+    <li><a href="https://github.com/jang-hyemi/Streamlit">스트림릿으로 데이터 분석 및 발표</a></li>
+    <li><a href="https://github.com/jang-hyemi/Triplelingo">영어 대본 파트너 로봇 및 웹</a></li>
 </ul>
 
 <p>
-    더 많은 작업물을 보시려면 <a href="https://github.com/ZeroBin-dev">GitHub</a>와  
-    <a href="https://zerobin-dev.tistory.com/">티스토리 블로그</a>를 통해 확인하실 수 있습니다.
+    더 많은 작업물을 보시려면 <a href="https://github.com/jang-hyemi">GitHub</a>를 통해 확인하실 수 있습니다.
 </p>
