@@ -14,7 +14,7 @@
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
     <li><a href="https://github.com/jang-hyemi/streamlit-project">스트림릿으로 데이터 분석 및 발표</a></li>
-    <li><a href="https://github.com/jang-hyemi/Triplelingo">영어 대본 파트너 로봇 및 웹</a></li>
+    <li><a href="https://github.com/Triplelingo/-SEMS-Project">영어 대본 파트너 로봇 및 웹</a></li>
 </ul>
 
 <p>
